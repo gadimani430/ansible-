@@ -1,1 +1,60 @@
-Hi How are you ?
+   1  cd /opt/draios/etc/
+    2  ls
+    3  vi dragent.default.yaml
+    4  vi dragent.yaml
+    5  uname -a
+    6  ifconfig
+    7  hostname
+    8  ls
+    9  vi dragent.yaml
+   10  vim dragent.yaml
+   11  exit
+   12  ls /opt/draios/
+   13  cd etc/
+   14  ls
+   15  pwd
+   16  cd /opt/draios/etc/
+   17  ls
+   18  vi dragent.default.yaml
+   19  vi dragent.yaml
+   20  docker restart sysdig-agent
+   21  vi /opt/draios/etc/dragent.default.yaml
+   22  pwd
+   23  vi /opt/draios/etc/dragent.yaml
+   24  service status mysql
+   25  service mysql status
+   26  man serivce
+   27  exit
+   28  cd /opt/draios/etc/
+   29  ls
+   30  vi dragent.yaml
+   31  vi dragent.default.yaml
+   32  cd /opt/draios/etc/
+   33  ls
+   34  vi dragent.yaml
+   35  docker ps
+   36  ls
+   37  cd /opt/draios/etc/
+   38  ls
+   39  vi dragent.yaml
+   40  nano dragent.yaml
+   41  apt-get install nano
+   42  nano dragent.yaml
+   43  cat dragent.yaml
+   44  exit
+   45  cd /opt/draios/etc/
+   46  nano dragent.yaml
+   47  exit
+   48  cd /opt/draios/lib/python/sdchecks.d
+   49  cd /opt/draios/lib/python/checks.d
+   50  ls
+   51  vi mysql.py
+   52  vi /opt/draios/lib/python/sdchecks.py
+   53  cd /opt/draios/etc/
+   54*
+   55  vi dragent.yaml
+   56  vi /opt/draios/lib/python/sdchecks.py
+   57  vi /opt/draios/lib/python-deps/pymysql/connections.py
+   58  bi /opt/draios/lib/python-deps/pymysql/connections.py
+   59  vi /opt/draios/lib/python-deps/pymysql/connections.py
+   60  history
