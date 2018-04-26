@@ -1,0 +1,10 @@
+docker ps
+docker ps -a
+docker run image id
+docker exec -it container id /bin/bash
+docker start container 
+docker stop container 
+docker pause container 
+docker unpause container 
+docker restart container 
+
